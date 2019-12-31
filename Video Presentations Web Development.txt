@@ -1,0 +1,11 @@
+HTML & CSS: https://youtu.be/WI_997fJ9r8
+Javascript & Bootstrap: https://youtu.be/7Pob6OI5YME
+Angular Simple: https://youtu.be/YFX7KowIdXg
+Angular complete, routing, service: https://youtu.be/jdk_51oXPhs
+Backend: https://youtu.be/AOmNQMrQ1kI
+
+Other Backend Links:
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1&tabs=visual-studio
+https://docs.microsoft.com/en-us/aspnet/core/data/entity-framework-6?view=aspnetcore-3.0
+https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=visual-studio
